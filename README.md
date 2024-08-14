@@ -5,4 +5,4 @@
 Таблица попарного тестирования фильтрации и сортировки [  https://docs.google.com/spreadsheets/d/1LePq5ra5Boz9BYVfzdxhFv9vk5lkmmRcGd244Xn_jiY/edit?usp=sharing ](https://docs.google.com/spreadsheets/d/1LePq5ra5Boz9BYVfzdxhFv9vk5lkmmRcGd244Xn_jiY/edit?usp=sharing)
 
 # Тестирование модуля оплаты Paypal техникой тест-дизайна "Таблица принятия решений"
-https://docs.google.com/spreadsheets/d/1yJTPLSwA_mUz-_ogw2sAZiPKU1XuusMgLvx5m2Je1jk/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1yJTPLSwA_mUz-_ogw2sAZiPKU1XuusMgLvx5m2Je1jk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yJTPLSwA_mUz-_ogw2sAZiPKU1XuusMgLvx5m2Je1jk/edit?usp=sharing)
